@@ -5,6 +5,9 @@ on:
     - cron: "0 */2 * * *"   # каждые 2 часа (UTC)
   workflow_dispatch:        # запуск вручную через GitHub
 
+permissions:
+  contents: write   # даём право на запись в репозиторий
+
 jobs:
   update-json:
     runs-on: ubuntu-latest

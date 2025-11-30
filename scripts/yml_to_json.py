@@ -41,6 +41,7 @@ def parse_xml(xml_text: str) -> list:
             oid = offer.get("id") or ""
             name = (offer.findtext("name") or "").strip()
             vendor = (offer.findtext("vendor") or "").strip()
+            vendor_code = (offer.findtext("vendorCode") or "").strip()   # ← артикул
             category_id = (offer.findtext("categoryId") or "").strip()
             category_name = categories.get(category_id, category_id)
 
@@ -55,6 +56,7 @@ def parse_xml(xml_text: str) -> list:
                 "id": oid,
                 "name": name,
                 "brand": vendor,
+                "vendorCode": vendor_code,   # ← добавлено
                 "category": category_name,
                 "picture": picture,
                 "url": url,

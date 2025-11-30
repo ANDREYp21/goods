@@ -1,6 +1,7 @@
 import requests
 import xml.etree.ElementTree as ET
 import json
+import re
 
 URL = "https://expert-autoservice.ru/get_price?p=3af702b45d2f435c864ea95a2cbeeb04&FranchiseeId=4958296"
 JSON_FILE = "products.json"
@@ -12,8 +13,19 @@ def fetch_xml(url: str) -> str:
     xml_text = resp.text.lstrip("\ufeff")  # убираем BOM если есть
     return xml_text
 
+def clean_xml(xml_text: str) -> str:
+    # заменяем голые амперсанды на &amp;
+    xml_text = re.sub(r'&(?!amp;|lt;|gt;|quot;|apos;)', '&amp;', xml_text)
+    return xml_text
+
 def parse_xml(xml_text: str) -> list:
-    root = ET.fromstring(xml_text)
+    try:
+        root = ET.fromstring(xml_text)
+    except ET.ParseError as e:
+        print("ParseError:", e)
+        print("Попробуем очистить XML…")
+        xml_text = clean_xml(xml_text)
+        root = ET.fromstring(xml_text)
 
     # словарь категорий id → название
     categories = {}
@@ -25,31 +37,34 @@ def parse_xml(xml_text: str) -> list:
 
     products = []
     for offer in root.findall(".//offer"):
-        oid = offer.get("id") or ""
-        name = (offer.findtext("name") or "").strip()
-        vendor = (offer.findtext("vendor") or "").strip()
-        category_id = (offer.findtext("categoryId") or "").strip()
-        category_name = categories.get(category_id, category_id)
+        try:
+            oid = offer.get("id") or ""
+            name = (offer.findtext("name") or "").strip()
+            vendor = (offer.findtext("vendor") or "").strip()
+            category_id = (offer.findtext("categoryId") or "").strip()
+            category_name = categories.get(category_id, category_id)
 
-        # несколько картинок
-        pictures = [ (pic.text or "").strip() for pic in offer.findall("picture") if pic.text ]
-        picture = pictures[0] if pictures else ""
+            pictures = [(pic.text or "").strip() for pic in offer.findall("picture") if pic.text]
+            picture = pictures[0] if pictures else ""
 
-        url = (offer.findtext("url") or "").strip()
-        price = (offer.findtext("price") or "").strip()
-        currency = (offer.findtext("currencyId") or "").strip()
+            url = (offer.findtext("url") or "").strip()
+            price = (offer.findtext("price") or "").strip()
+            currency = (offer.findtext("currencyId") or "").strip()
 
-        product = {
-            "id": oid,
-            "name": name,
-            "brand": vendor,
-            "category": category_name,
-            "picture": picture,
-            "url": url,
-            "price": price,
-            "currency": currency
-        }
-        products.append(product)
+            product = {
+                "id": oid,
+                "name": name,
+                "brand": vendor,
+                "category": category_name,
+                "picture": picture,
+                "url": url,
+                "price": price,
+                "currency": currency
+            }
+            products.append(product)
+        except Exception as e:
+            print(f"Ошибка в оффере {offer.get('id')}: {e}")
+            continue  # пропускаем битый оффер
 
     return products
 

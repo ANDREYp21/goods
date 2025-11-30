@@ -2,8 +2,8 @@ name: Update products.json
 
 on:
   schedule:
-    - cron: "0 17 * * *"   # каждый день в 03:00 UTC
-  workflow_dispatch:       # запуск вручную через GitHub
+    - cron: "0 */2 * * *"   # каждые 2 часа (UTC)
+  workflow_dispatch:        # запуск вручную через GitHub
 
 jobs:
   update-json:
@@ -23,10 +23,14 @@ jobs:
       - name: Generate products.json
         run: python scripts/yml_to_json.py
 
-      - name: Commit & Push
+      - name: Commit & Push if changed
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add products.json
-          git commit -m "Автообновление products.json"
-          git push
+          if ! git diff --quiet -- products.json; then
+            git add products.json
+            git commit -m "Автообновление products.json"
+            git push
+          else
+            echo "Нет изменений в products.json — пуш не требуется."
+          fi

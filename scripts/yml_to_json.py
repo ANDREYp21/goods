@@ -53,16 +53,14 @@ def parse_xml(xml_text: str) -> list:
             currency = (offer.findtext("currencyId") or "").strip()
 
             product = {
-                "id": oid,
-                "name": name,
-                "brand": vendor,
-                "vendorCode": vendor_code,   # ← добавлено
-                "category": category_name,
-                "picture": picture,
-                "url": url,
-                "price": price,
-                "currency": currency
-            }
+    "id": oid,
+    "name": name,
+    "brand": vendor,
+    "vendorCode": vendor_code,
+    "category": category_name,
+    "picture": picture,
+    "url": url
+}
             products.append(product)
         except Exception as e:
             print(f"Ошибка в оффере {offer.get('id')}: {e}")

@@ -1,0 +1,21 @@
+{
+  "brands": {
+    "renault": ["рено", "ренo"],
+    "nissan": ["ниссан"],
+    "volkswagen": ["vw", "фольксваген"],
+    "skoda": ["шкода"]
+  },
+
+  "models": {
+    "duster": ["дастер", "renault duster"],
+    "logan": ["логан", "renault logan"],
+    "sandero": ["сандеро", "renault sandero"],
+
+    "qashqai": ["кашкай", "ниссан кашкай"],
+    "x-trail": ["xtrail", "икстрейл", "икс трейл"],
+
+    "polo": ["поло", "vw polo"],
+    "rapid": ["рапид", "skoda rapid"],
+    "octavia": ["октавия", "skoda octavia"]
+  }
+}

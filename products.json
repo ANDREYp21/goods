@@ -823,7 +823,7 @@
     "name": "Держатель для телефона в дефлектор прищепка магнитный круглый AIRLINE арт. AEAG005",
     "brand": "AIRLINE",
     "vendorCode": "AEAG005",
-    "category": "Аксессуары и оборудование",
+    "category": "Дефлекторы",
     "picture": "https://pubimg.nodacdn.net/images/11d9dc373dc8d4628f60eed9bcbdc3f6d0a6d50005.jpeg",
     "url": "https://expert-autoservice.ru/parts/AIRLINE/AEAG005?d=11643769"
   },
@@ -1872,6 +1872,15 @@
     "url": "https://expert-autoservice.ru/parts/AUTOLUXE/AL118GO?d=11643769"
   },
   {
+    "id": "7ba69ea3b8cfdaaea636",
+    "name": "Клемма АКБ  AUTOPROFI арт. BAT/TER-102",
+    "brand": "AUTOPROFI",
+    "vendorCode": "BATTER102",
+    "category": "Электрика",
+    "picture": "https://pubimg.nodacdn.net/images/0557578cd8a11f83a2023061715f1c85314a80005.jpeg",
+    "url": "https://expert-autoservice.ru/parts/AUTOPROFI/BATTER102?d=11643769"
+  },
+  {
     "id": "48a5a796d86730644e6b",
     "name": "Бачок  расширительный 2170 с 2 штуцерами AV Autoplastic арт. AV 2170-1311010",
     "brand": "AV Autoplastic",
@@ -1957,7 +1966,7 @@
     "name": "Клипса - держатель пластмассовый держатель трубок и проводки (35) AVERS арт. 94530268AV",
     "brand": "AVERS",
     "vendorCode": "94530268AV",
-    "category": "Электрика",
+    "category": "Аксессуары и оборудование",
     "picture": "https://pubimg.nodacdn.net/images/108c65bdee0594d9e8494f1501c449ddfaf5d80005.jpeg",
     "url": "https://expert-autoservice.ru/parts/AVERS/94530268AV?d=11643769"
   },
@@ -2047,7 +2056,7 @@
     "name": "Держатель магнитный в дефлекторе  AVS арт. AH-1701-M",
     "brand": "AVS",
     "vendorCode": "AH1701M",
-    "category": "Дефлекторы",
+    "category": "Аксессуары и оборудование",
     "picture": "",
     "url": "https://expert-autoservice.ru/parts/AVS/AH1701M?d=11643769"
   },
@@ -3055,7 +3064,7 @@
     "name": "Реле стартера 70А  Avar арт. 711.3747-02",
     "brand": "Avar",
     "vendorCode": "711374702",
-    "category": "Двигатель",
+    "category": "Электрика",
     "picture": "https://pubimg.nodacdn.net/images/139e04bd3083587a1be94f6f464e46fc60721d0005.jpeg",
     "url": "https://expert-autoservice.ru/parts/Avar/711374702?d=11643769"
   },
@@ -3091,7 +3100,7 @@
     "name": "Датчик abs ступицы B-RING арт. BK1737ABS",
     "brand": "B-RING",
     "vendorCode": "BK1737ABS",
-    "category": "Электроника",
+    "category": "Электрика",
     "picture": "https://pubimg.nodacdn.net/images/1521af4d629765558fe74131903cd7010217e60005.jpg",
     "url": "https://expert-autoservice.ru/parts/B-RING/BK1737ABS?d=11643769"
   },
@@ -3523,7 +3532,7 @@
     "name": "МОТОРЧИК ОМЫВАТЕЛЯ VAG (для а/м с омывателем заднего стекла) BORSEHUNG арт. B11247",
     "brand": "BORSEHUNG",
     "vendorCode": "B11247",
-    "category": "Электроника",
+    "category": "Жидкость для стеклоомывателя",
     "picture": "https://pubimg.nodacdn.net/images/11ff56413fec2446f93f8a08e38bd77fdd8dd70005.jpeg",
     "url": "https://expert-autoservice.ru/parts/BORSEHUNG/B11247?d=11643769"
   },
@@ -3766,7 +3775,7 @@
     "name": "Датчик положения коленвала GM BREMI арт. 60263",
     "brand": "BREMI",
     "vendorCode": "60263",
-    "category": "Электроника",
+    "category": "Электрика",
     "picture": "https://pubimg.nodacdn.net/images/046faf0e29795abdedcc5f299d329eab801c390005.jpeg",
     "url": "https://expert-autoservice.ru/parts/BREMI/60263?d=11643769"
   },
@@ -3775,7 +3784,7 @@
     "name": "Датчик положения коленвала Renault BREMI арт. 60313",
     "brand": "BREMI",
     "vendorCode": "60313",
-    "category": "Электроника",
+    "category": "Электрика",
     "picture": "https://pubimg.nodacdn.net/images/0464971746c90a6b28eae692876da1c2a2f4320005.jpeg",
     "url": "https://expert-autoservice.ru/parts/BREMI/60313?d=11643769"
   },
@@ -4315,7 +4324,7 @@
     "name": "Кислородный датчик 4 контакта Универс LADA Largus Bosch арт. 0258986602",
     "brand": "Bosch",
     "vendorCode": "0258986602",
-    "category": "Электроника",
+    "category": "Электрика",
     "picture": "https://pubimg.nodacdn.net/images/0943577eed68b98b4ea7550b58ff0ffc8f5e2a0005.jpeg",
     "url": "https://expert-autoservice.ru/parts/Bosch/0258986602?d=11643769"
   },
@@ -4342,7 +4351,7 @@
     "name": "Датчик давления масла  Bosch арт. 0 986 345 008",
     "brand": "Bosch",
     "vendorCode": "0986345008",
-    "category": "Электрика",
+    "category": "Электроника",
     "picture": "https://pubimg.nodacdn.net/images/083ca53949b2e13e133703c29e3ac1986d9aa90005.jpeg",
     "url": "https://expert-autoservice.ru/parts/Bosch/0986345008?d=11643769"
   },
@@ -4468,7 +4477,7 @@
     "name": "Бендикс стартера  Bosch арт. 1006210143",
     "brand": "Bosch",
     "vendorCode": "1006210143",
-    "category": "Электрика",
+    "category": "Двигатель",
     "picture": "",
     "url": "https://expert-autoservice.ru/parts/Bosch/1006210143?d=11643769"
   },
@@ -4936,7 +4945,7 @@
     "name": "Колодка датчика колен.вала с проводами  CARGEN арт. AX313",
     "brand": "CARGEN",
     "vendorCode": "AX313",
-    "category": "Электрика",
+    "category": "Электроника",
     "picture": "https://pubimg.nodacdn.net/images/091ea9f9137f5cf007b1088a0ac68941c052580005.jpeg",
     "url": "https://expert-autoservice.ru/parts/CARGEN/AX313?d=11643769"
   },
@@ -4963,7 +4972,7 @@
     "name": "Колодка датчика темп.охл.жидкости с проводами  CARGEN арт. AX316",
     "brand": "CARGEN",
     "vendorCode": "AX316",
-    "category": "Электроника",
+    "category": "Электрика",
     "picture": "https://pubimg.nodacdn.net/images/09d45d3faf48cd9c3370605a84e0c9202f5c690005.jpeg",
     "url": "https://expert-autoservice.ru/parts/CARGEN/AX316?d=11643769"
   },
@@ -5170,7 +5179,7 @@
     "name": "Колодка датчика температуры масла 1117,1118,1119  CARGEN арт. AX433",
     "brand": "CARGEN",
     "vendorCode": "AX433",
-    "category": "Электроника",
+    "category": "Электрика",
     "picture": "https://pubimg.nodacdn.net/images/05d36bafbb5b4022e36464f6142933e2b603970005.jpeg",
     "url": "https://expert-autoservice.ru/parts/CARGEN/AX433?d=11643769"
   },
@@ -5179,7 +5188,7 @@
     "name": "Колодка к электродвигателю отопителя с провод.  CARGEN арт. AX434",
     "brand": "CARGEN",
     "vendorCode": "AX434",
-    "category": "Автомобильные инструменты",
+    "category": "Электрика",
     "picture": "https://pubimg.nodacdn.net/images/09f391d7d9ddabd30629e59faa446cc686b4430005.jpeg",
     "url": "https://expert-autoservice.ru/parts/CARGEN/AX434?d=11643769"
   },
@@ -5206,7 +5215,7 @@
     "name": "Провод АКБ Cargen (-) сечение 16 мм, длина 1100 мм, черный  CARGEN арт. AX633",
     "brand": "CARGEN",
     "vendorCode": "AX633",
-    "category": "Аккумуляторные батареи",
+    "category": "Электрика",
     "picture": "https://pubimg.nodacdn.net/images/068bc8efcf88f1a75840608683f177750248ab0005.jpeg",
     "url": "https://expert-autoservice.ru/parts/CARGEN/AX633?d=11643769"
   },
@@ -5287,7 +5296,7 @@
     "name": "Кольцо токосъемное коллектора генератора (Х-образное) CITROEN/PEUGEOT/RENAULT  CARGO арт. 230090",
     "brand": "CARGO",
     "vendorCode": "230090",
-    "category": "Электрика",
+    "category": "Двигатель",
     "picture": "https://pubimg.nodacdn.net/images/00931d7299ff0fac44149468eb110c644c9e840005.jpeg",
     "url": "https://expert-autoservice.ru/parts/CARGO/230090?d=11643769"
   },
@@ -5452,15 +5461,6 @@
     "category": "Система выпуска",
     "picture": "https://pubimg.nodacdn.net/images/136d840744e5da798f27e2a4ef3e9cfd39473f0005.jpeg",
     "url": "https://expert-autoservice.ru/parts/CBD/CBD311008?d=11643769"
-  },
-  {
-    "id": "d029fddd616a33e0956b",
-    "name": "Гофра глушителя 45X150  CBD арт. CBD311010",
-    "brand": "CBD",
-    "vendorCode": "CBD311010",
-    "category": "Система выпуска",
-    "picture": "https://pubimg.nodacdn.net/images/13b8663d929ab05c58f7487ab94cc6951a24950005.jpeg",
-    "url": "https://expert-autoservice.ru/parts/CBD/CBD311010?d=11643769"
   },
   {
     "id": "030f511fef1da1fb9b7c",
@@ -9324,6 +9324,24 @@
     "url": "https://expert-autoservice.ru/parts/Dolz/T235?d=11643769"
   },
   {
+    "id": "3afa004db5a59b4ade9b",
+    "name": "ELF Масло моторное синтетическое EVOLUTION 900 SXR 5W30 API SL/CF, ACEA A5/B5 1л",
+    "brand": "ELF",
+    "vendorCode": "11070301",
+    "category": "Моторные масла",
+    "picture": "https://pubimg.nodacdn.net/images/08f932e252fe9a59d50b9c41099c7a1dbf6f3c0005.jpeg",
+    "url": "https://expert-autoservice.ru/parts/ELF/11070301?d=11643769"
+  },
+  {
+    "id": "ca11b82470c81bf31ef7",
+    "name": "ELF Масло моторное синтетическое EVOLUTION 900 SXR 5W30 API SL/CF, ACEA A5/B5 4л",
+    "brand": "ELF",
+    "vendorCode": "11080501",
+    "category": "Моторные масла",
+    "picture": "https://pubimg.nodacdn.net/images/08ef5fd6f4e69a94d923d154e3b0656cae14340005.jpeg",
+    "url": "https://expert-autoservice.ru/parts/ELF/11080501?d=11643769"
+  },
+  {
     "id": "612b42a87e39814bf2eb",
     "name": "ELF Масло моторное синтетическое Evolution 900 SXR 5W-40, 1л",
     "brand": "ELF",
@@ -9814,7 +9832,7 @@
     "name": "Датчик температуры ВАЗ инжектор 2110-2112, 2113- 2115,2170-2172,2190  Era арт. 330107",
     "brand": "Era",
     "vendorCode": "330107",
-    "category": "Электроника",
+    "category": "Электрика",
     "picture": "https://pubimg.nodacdn.net/images/0045dcb809b0da9d2752f6d18cc045f8b106340005.jpeg",
     "url": "https://expert-autoservice.ru/parts/Era/330107?d=11643769"
   },
@@ -9823,7 +9841,7 @@
     "name": "Датчик температуры Logan  Era арт. 330138",
     "brand": "Era",
     "vendorCode": "330138",
-    "category": "Электроника",
+    "category": "Электрика",
     "picture": "https://pubimg.nodacdn.net/images/001be8e9422a6a58c39e0c12296c739589cb320005.jpeg",
     "url": "https://expert-autoservice.ru/parts/Era/330138?d=11643769"
   },
@@ -9931,7 +9949,7 @@
     "name": "Хомут глушителя 45,5/49,5x80 мм. FA1 арт. 224945",
     "brand": "FA1",
     "vendorCode": "224945",
-    "category": "Система выпуска",
+    "category": "Сантехнические хомуты",
     "picture": "https://pubimg.nodacdn.net/images/01c031ddb0dec551457a4c45103c64ff2767e10005.jpeg",
     "url": "https://expert-autoservice.ru/parts/FA1/224945?d=11643769"
   },
@@ -10048,7 +10066,7 @@
     "name": "Датчик давления масла  FAE арт. 12430",
     "brand": "FAE",
     "vendorCode": "12430",
-    "category": "Электроника",
+    "category": "Электрика",
     "picture": "https://pubimg.nodacdn.net/images/01f484e016cf65a6c0447ed98e217ab96f1ce00005.jpeg",
     "url": "https://expert-autoservice.ru/parts/FAE/12430?d=11643769"
   },
@@ -10057,7 +10075,7 @@
     "name": "Датчик давл.масла HONDA/MAZDA/SUBARU/SUZUKI  FAE арт. 12550",
     "brand": "FAE",
     "vendorCode": "12550",
-    "category": "Электрика",
+    "category": "Электроника",
     "picture": "https://pubimg.nodacdn.net/images/01dfa32ee3295cf97c295cb0b876b2bc9c14580005.jpeg",
     "url": "https://expert-autoservice.ru/parts/FAE/12550?d=11643769"
   },
@@ -10102,7 +10120,7 @@
     "name": "Датчик зад.хода Hyundai/Kia  FAE арт. 41241",
     "brand": "FAE",
     "vendorCode": "41241",
-    "category": "Электроника",
+    "category": "Электрика",
     "picture": "https://pubimg.nodacdn.net/images/04904340c8e6e9ecf59f703f1025d98377b8240005.jpeg",
     "url": "https://expert-autoservice.ru/parts/FAE/41241?d=11643769"
   },
@@ -10111,7 +10129,7 @@
     "name": "Датчик фазы двигателя  FAE арт. 79134",
     "brand": "FAE",
     "vendorCode": "79134",
-    "category": "Электроника",
+    "category": "Электрика",
     "picture": "https://pubimg.nodacdn.net/images/0129b2f230a9e62047d693f7ac19851631d9f80005.jpeg",
     "url": "https://expert-autoservice.ru/parts/FAE/79134?d=11643769"
   },
@@ -10120,7 +10138,7 @@
     "name": "Датчик распред-вала KIA/Hyundai  FAE арт. 79349",
     "brand": "FAE",
     "vendorCode": "79349",
-    "category": "Электрика",
+    "category": "Электроника",
     "picture": "https://pubimg.nodacdn.net/images/0025f6fdba63cc288438462d49298ed2f2be5f0005.jpeg",
     "url": "https://expert-autoservice.ru/parts/FAE/79349?d=11643769"
   },
@@ -10440,6 +10458,15 @@
     "url": "https://expert-autoservice.ru/parts/FKVJP/PABF65?d=11643769"
   },
   {
+    "id": "49fb1b154d046e1984e1",
+    "name": "Ароматизатор пластинка BIG FRESH (Новая машина) пластинка  FKVJP арт. PABF72",
+    "brand": "FKVJP",
+    "vendorCode": "PABF72",
+    "category": "Ароматизаторы салона",
+    "picture": "https://pubimg.nodacdn.net/images/124665fce344f79810bb355abbd08763ddfd010005.png",
+    "url": "https://expert-autoservice.ru/parts/FKVJP/PABF72?d=11643769"
+  },
+  {
     "id": "98b4d397fd8e3adf89e8",
     "name": "Ароматизатор пластинка BIG FRESH (Черный лед) пластинка  FKVJP арт. PABF74",
     "brand": "FKVJP",
@@ -10528,6 +10555,15 @@
     "category": "Запчасти",
     "picture": "https://pubimg.nodacdn.net/images/10d836505d0e107413b07b11e8aee0b51c4f910005.png",
     "url": "https://expert-autoservice.ru/parts/FORMEL/FMWFGRAY?d=11643769"
+  },
+  {
+    "id": "f520020ec2285a8e5af9",
+    "name": "Скотч- брайт коричневый P360 Very Fine 115мм х 230мм х 6мм FORMEL  FORMEL арт. fmwfred",
+    "brand": "FORMEL",
+    "vendorCode": "FMWFRED",
+    "category": "Запчасти",
+    "picture": "https://pubimg.nodacdn.net/images/10665f068818fc93bbefdea697b09676cddf5f0005.jpeg",
+    "url": "https://expert-autoservice.ru/parts/FORMEL/FMWFRED?d=11643769"
   },
   {
     "id": "a04286d4beee681cd911",
@@ -10624,7 +10660,7 @@
     "name": "Хомут глушителя D-46/50.5 x L-90 мм FORTLUFT арт. 265129",
     "brand": "FORTLUFT",
     "vendorCode": "265129",
-    "category": "Система выпуска",
+    "category": "Сантехнические хомуты",
     "picture": "https://pubimg.nodacdn.net/images/150c396bcb0299fa1f8f23be1d16f20111112d0005.jpg",
     "url": "https://expert-autoservice.ru/parts/FORTLUFT/265129?d=11643769"
   },
@@ -11218,7 +11254,7 @@
     "name": "Датчик давления масла Opel Astra H 1.4/1.6, Chevrolet Cruze, Aveo (T300) 1.6, Orlando Febi арт. 17665",
     "brand": "Febi",
     "vendorCode": "17665",
-    "category": "Электроника",
+    "category": "Электрика",
     "picture": "https://pubimg.nodacdn.net/images/13c6ffd235e4a3de292a9ed69ab46197f7fec30005.jpeg",
     "url": "https://expert-autoservice.ru/parts/Febi/17665?d=11643769"
   },
@@ -11560,7 +11596,7 @@
     "name": "Датчик зад.хода GM Febi арт. 2800",
     "brand": "Febi",
     "vendorCode": "2800",
-    "category": "Электроника",
+    "category": "Электрика",
     "picture": "",
     "url": "https://expert-autoservice.ru/parts/Febi/2800?d=11643769"
   },
@@ -13824,6 +13860,15 @@
     "url": "https://expert-autoservice.ru/parts/Friction%20Master/MKD228?d=11643769"
   },
   {
+    "id": "29bf74d2f4c2f040dd15",
+    "name": "Прокладка коллектора ВАЗ 8-кл (метал ВПУСКВЫПУСК)  Fritex арт. 21114-1008080",
+    "brand": "Fritex",
+    "vendorCode": "211141008080",
+    "category": "Двигатель",
+    "picture": "https://pubimg.nodacdn.net/images/11a1ac9cc9883f44ab85372678eb24855e0b8c0005.jpeg",
+    "url": "https://expert-autoservice.ru/parts/Fritex/211141008080?d=11643769"
+  },
+  {
     "id": "7460ec44cdafec5e8457",
     "name": "Фильтр салона (Приора с конд. PANASONIC)  Fujikawa арт. LA-001",
     "brand": "Fujikawa",
@@ -15273,6 +15318,15 @@
     "url": "https://expert-autoservice.ru/parts/Gates/T42042A?d=11643769"
   },
   {
+    "id": "fdce8726860f1ec81cf5",
+    "name": "Термостат 50мм [89°c] Lada largus 12-; dacia/Renault logan 04-, sandero/stepway 1.4/1.6 07- Gates арт. TH23389G1",
+    "brand": "Gates",
+    "vendorCode": "TH23389G1",
+    "category": "Запчасти",
+    "picture": "https://pubimg.nodacdn.net/images/107290c379a53c632ebfa1383e4d5b54d3bf5b0005.jpeg",
+    "url": "https://expert-autoservice.ru/parts/Gates/TH23389G1?d=11643769"
+  },
+  {
     "id": "e66460159bd3068ecbd7",
     "name": "Gazpromneft Gazpromneft Premium N 5W40 1л",
     "brand": "Gazpromneft",
@@ -15430,7 +15484,7 @@
     "name": "Клемма General Technologies для аккумулятора \"-\"  General Technologies арт. GT-M040014N",
     "brand": "General Technologies",
     "vendorCode": "GTM040014N",
-    "category": "Электрика",
+    "category": "Аккумуляторные батареи",
     "picture": "",
     "url": "https://expert-autoservice.ru/parts/General%20Technologies/GTM040014N?d=11643769"
   },
@@ -15439,7 +15493,7 @@
     "name": "Клемма General Technologies для аккумулятора \"+\"  General Technologies арт. GT-M040014P",
     "brand": "General Technologies",
     "vendorCode": "GTM040014P",
-    "category": "Электрика",
+    "category": "Аккумуляторные батареи",
     "picture": "",
     "url": "https://expert-autoservice.ru/parts/General%20Technologies/GTM040014P?d=11643769"
   },
@@ -15997,7 +16051,7 @@
     "name": "Датчик давления кондиционера  HELLA арт. 6ZL 351 028-361",
     "brand": "HELLA",
     "vendorCode": "6ZL351028361",
-    "category": "Электроника",
+    "category": "Электрика",
     "picture": "",
     "url": "https://expert-autoservice.ru/parts/HELLA/6ZL351028361?d=11643769"
   },
@@ -17266,7 +17320,7 @@
     "name": "Датчик импульсов коленвала HYUNDAI / KIA  Hyundai-KIA арт. 39180-2B000",
     "brand": "Hyundai-KIA",
     "vendorCode": "391802B000",
-    "category": "Двигатель",
+    "category": "Электрика",
     "picture": "https://pubimg.nodacdn.net/images/090c4a7771c620fabde0ebb729560c1ee3de9e0005.png",
     "url": "https://expert-autoservice.ru/parts/Hyundai-KIA/391802B000?d=11643769"
   },
@@ -17770,7 +17824,7 @@
     "name": "Датчик стоп сигнала HYUNDAI/KIA  Hyundai-KIA арт. 938102E000",
     "brand": "Hyundai-KIA",
     "vendorCode": "938102E000",
-    "category": "Электроника",
+    "category": "Электрика",
     "picture": "https://pubimg.nodacdn.net/images/00562a1f1f5d38c5acf468043453a3dc4802150005.jpeg",
     "url": "https://expert-autoservice.ru/parts/Hyundai-KIA/938102E000?d=11643769"
   },
@@ -19399,7 +19453,7 @@
     "name": "Бендикс стартера  RENAULT LOGAN  Krauf арт. SDM5426PN",
     "brand": "Krauf",
     "vendorCode": "SDM5426PN",
-    "category": "Электрика",
+    "category": "Двигатель",
     "picture": "https://pubimg.nodacdn.net/images/109035574f981d6ac5ade779fc6de1741370660005.jpeg",
     "url": "https://expert-autoservice.ru/parts/Krauf/SDM5426PN?d=11643769"
   },
@@ -19417,7 +19471,7 @@
     "name": "Бендикс стартера LARGUS  Krauf арт. SDV7797PN",
     "brand": "Krauf",
     "vendorCode": "SDV7797PN",
-    "category": "Электрика",
+    "category": "Двигатель",
     "picture": "https://pubimg.nodacdn.net/images/113219217c3cba830039872e8adfb2f07095310005.jpeg",
     "url": "https://expert-autoservice.ru/parts/Krauf/SDV7797PN?d=11643769"
   },
@@ -20101,7 +20155,7 @@
     "name": "Датчик включения стоп-сигнала ВАЗ-1118,2170-2,2190-2,Vesta,Largus, RENAULT LADA арт. 8450111137",
     "brand": "LADA",
     "vendorCode": "8450111137",
-    "category": "Электрика",
+    "category": "Электроника",
     "picture": "https://pubimg.nodacdn.net/images/12ab7b97cc30d0bd60c5eab312b2279fe12d940005.jpeg",
     "url": "https://expert-autoservice.ru/parts/LADA/8450111137?d=11643769"
   },
@@ -20281,7 +20335,7 @@
     "name": "Разъем жгута бензонасоса к датчику кислорода (ВАЗ)  с проводами LECAR арт. LECAR010030703",
     "brand": "LECAR",
     "vendorCode": "LECAR010030703",
-    "category": "Электрика",
+    "category": "Электроника",
     "picture": "",
     "url": "https://expert-autoservice.ru/parts/LECAR/LECAR010030703?d=11643769"
   },
@@ -22036,7 +22090,7 @@
     "name": "Смазка высокотемпературная синяя LC-2 230 г MANNOL арт. 8094",
     "brand": "MANNOL",
     "vendorCode": "8094",
-    "category": "Смазки",
+    "category": "Автохимия и автокосметика",
     "picture": "https://pubimg.nodacdn.net/images/138047b0be21032a2c1177e1b2f94f3062c1c10005.png",
     "url": "https://expert-autoservice.ru/parts/MANNOL/8094?d=11643769"
   },
@@ -22297,7 +22351,7 @@
     "name": "Датчик давления ГУР Lada Largus, Renault Logan, Duster, Sandero MEAT & DORIA арт. 82514E",
     "brand": "MEAT & DORIA",
     "vendorCode": "82514E",
-    "category": "Электроника",
+    "category": "Электрика",
     "picture": "https://pubimg.nodacdn.net/images/11e006eb339e02351b832b2172da7a4a697ebf0005.jpeg",
     "url": "https://expert-autoservice.ru/parts/MEAT%20%26%20DORIA/82514E?d=11643769"
   },
@@ -22324,7 +22378,7 @@
     "name": "Датчик скорости RENAULT LOGAN  MEAT & DORIA арт. 87656",
     "brand": "MEAT & DORIA",
     "vendorCode": "87656",
-    "category": "Электроника",
+    "category": "Электрика",
     "picture": "https://pubimg.nodacdn.net/images/1109efe83231294a2e49f3aa991b7fb2a7f72a0005.jpeg",
     "url": "https://expert-autoservice.ru/parts/MEAT%20%26%20DORIA/87656?d=11643769"
   },
@@ -22612,7 +22666,7 @@
     "name": "Лампа галогенная H16  MTF Light арт. HS1216",
     "brand": "MTF Light",
     "vendorCode": "HS1216",
-    "category": "Автосвет",
+    "category": "Лампы для автомобилей",
     "picture": "https://pubimg.nodacdn.net/images/09b1368405da9e933483b2054190167e2456740005.jpeg",
     "url": "https://expert-autoservice.ru/parts/MTF%20Light/HS1216?d=11643769"
   },
@@ -22939,6 +22993,15 @@
     "category": "Салонные фильтры",
     "picture": "https://pubimg.nodacdn.net/images/15228eb8f576b92e7965fa3379294f96171f250005.jpg",
     "url": "https://expert-autoservice.ru/parts/Mando/ECF00063M?d=11643769"
+  },
+  {
+    "id": "3bb2ee87701a9308020b",
+    "name": "Прокладка клапанной крышки  Mando арт. EGCNH00053",
+    "brand": "Mando",
+    "vendorCode": "EGCNH00053",
+    "category": "Запчасти",
+    "picture": "https://pubimg.nodacdn.net/images/142bebf77b0ce82fd7e4ebc843498085e318150005.jpg",
+    "url": "https://expert-autoservice.ru/parts/Mando/EGCNH00053?d=11643769"
   },
   {
     "id": "3a19a95b9d659cdb2235",
@@ -25330,7 +25393,7 @@
     "name": "Термостат GM с датчиком 105°C с прокладкой Opel Astra G/H/Insignia/Vectra C/Zafira 1.6/1.8 00>  Motorad арт. 611105K",
     "brand": "Motorad",
     "vendorCode": "611105K",
-    "category": "Электроника",
+    "category": "Электрика",
     "picture": "https://pubimg.nodacdn.net/images/042ec5462fd5ba019ef1dcf26927d3736e613b0005.jpeg",
     "url": "https://expert-autoservice.ru/parts/Motorad/611105K?d=11643769"
   },
@@ -25920,15 +25983,6 @@
     "url": "https://expert-autoservice.ru/parts/NOK/AH2854F0?d=11643769"
   },
   {
-    "id": "1ddcaecb35498c337217",
-    "name": "Сальник 56x35x9/14.9 привода  NOK арт. AH6901M0",
-    "brand": "NOK",
-    "vendorCode": "AH6901M0",
-    "category": "Запчасти",
-    "picture": "https://pubimg.nodacdn.net/images/08486027871fa75b3d1fe2715e6cba147f9e030005.jpeg",
-    "url": "https://expert-autoservice.ru/parts/NOK/AH6901M0?d=11643769"
-  },
-  {
     "id": "1281b360b9af47edd92f",
     "name": "Сальник 63x34x9/15,5 привод левый  NOK арт. BC2077G0",
     "brand": "NOK",
@@ -26089,6 +26143,15 @@
     "category": "Сантехнические хомуты",
     "picture": "https://pubimg.nodacdn.net/images/147f4709f64639fdf8e00ebd7f46941c0faa2c0005.png",
     "url": "https://expert-autoservice.ru/parts/NORD%20YADA/900257?d=11643769"
+  },
+  {
+    "id": "f1430c15aae6e0319540",
+    "name": "Хомут 25-40 NORD YADA арт. 900258",
+    "brand": "NORD YADA",
+    "vendorCode": "900258",
+    "category": "Сантехнические хомуты",
+    "picture": "https://pubimg.nodacdn.net/images/143a37e122ec3cd23ce68aee67d478ced786540005.png",
+    "url": "https://expert-autoservice.ru/parts/NORD%20YADA/900258?d=11643769"
   },
   {
     "id": "eb1d8bea04eb83d3444c",
@@ -27751,7 +27814,7 @@
     "name": "LED Лампа Omegalight Ultra H1 2500 1шт OMEGALIGHT арт. OLLEDH1UL1",
     "brand": "OMEGALIGHT",
     "vendorCode": "OLLEDH1UL1",
-    "category": "Автосвет",
+    "category": "Лампы для автомобилей",
     "picture": "https://pubimg.nodacdn.net/images/095febb9ce37225731b007bdc62c4ed73476b80005.jpeg",
     "url": "https://expert-autoservice.ru/parts/OMEGALIGHT/OLLEDH1UL1?d=11643769"
   },
@@ -28255,7 +28318,7 @@
     "name": "Датчик распредвала ВАЗ 8 кл. PEKAR арт. 2111-3706040",
     "brand": "PEKAR",
     "vendorCode": "21113706040",
-    "category": "Электроника",
+    "category": "Электрика",
     "picture": "https://pubimg.nodacdn.net/images/08f857faa3d8d384104b1be4ad6f82b4bc99c60005.jpeg",
     "url": "https://expert-autoservice.ru/parts/PEKAR/21113706040?d=11643769"
   },
@@ -28300,7 +28363,7 @@
     "name": "КАТУШКА КОМПРЕССОРА КОНДИЦИОНЕРА  POLCAR арт. CKK025",
     "brand": "POLCAR",
     "vendorCode": "CKK025",
-    "category": "Электрика",
+    "category": "Автомобильные компрессоры",
     "picture": "",
     "url": "https://expert-autoservice.ru/parts/POLCAR/CKK025?d=11643769"
   },
@@ -29610,6 +29673,15 @@
     "url": "https://expert-autoservice.ru/parts/RTS/9302337?d=11643769"
   },
   {
+    "id": "c923c5cd33475e0e389f",
+    "name": "Шаровая опора -лев.-прав. RENAULT Duster, Kaptur, NISSAN Terrano (D10) RTS арт. 9302406056",
+    "brand": "RTS",
+    "vendorCode": "9302406056",
+    "category": "Подвеска",
+    "picture": "https://pubimg.nodacdn.net/images/014f1ea5dac66f64173ece035f5d3200b57c860005.jpeg",
+    "url": "https://expert-autoservice.ru/parts/RTS/9302406056?d=11643769"
+  },
+  {
     "id": "329ab1de873814390692",
     "name": "Опора шаровая Renault Duster 18- / Arkana 19- / Kaptur-13 RTS арт. 9302420056",
     "brand": "RTS",
@@ -30168,6 +30240,15 @@
     "url": "https://expert-autoservice.ru/parts/Rosteco/20104?d=11643769"
   },
   {
+    "id": "6350d7abd8f8be7538de",
+    "name": "Патрубок вентиляции картера (ВАЗ) Лада Гранта / Калина-2 / Приора / Веста / Ларгус / XRAY  Rosteco арт. 20110",
+    "brand": "Rosteco",
+    "vendorCode": "20110",
+    "category": "Запчасти",
+    "picture": "https://pubimg.nodacdn.net/images/10e38e0cb8510646a66837aaa02b92581281f20005.jpeg",
+    "url": "https://expert-autoservice.ru/parts/Rosteco/20110?d=11643769"
+  },
+  {
     "id": "0f25768d1dbc1f90de46",
     "name": "Прокладки дросельной заслонки  LARGUS LOGAN 16 кл.  Rosteco арт. 20182",
     "brand": "Rosteco",
@@ -30622,7 +30703,7 @@
     "name": "Патрон для галогеной лампы HB4 с проводами (керамика)  Rukrosser арт. RK0207005",
     "brand": "Rukrosser",
     "vendorCode": "RK0207005",
-    "category": "Автосвет",
+    "category": "Электрика",
     "picture": "",
     "url": "https://expert-autoservice.ru/parts/Rukrosser/RK0207005?d=11643769"
   },
@@ -31392,6 +31473,15 @@
     "url": "https://expert-autoservice.ru/parts/SINTEC/600143?d=11643769"
   },
   {
+    "id": "c4152d31d62d056fa148",
+    "name": "SINTEC Масло моторное полусинтетическое \"Супер 10W-40\", 4л",
+    "brand": "SINTEC",
+    "vendorCode": "600240",
+    "category": "Моторные масла",
+    "picture": "https://pubimg.nodacdn.net/images/119571a393dce9cb34fda4db978331723490290005.jpeg",
+    "url": "https://expert-autoservice.ru/parts/SINTEC/600240?d=11643769"
+  },
+  {
     "id": "f8daa8163acb71657251",
     "name": "Антифриз g12+ 5кг SINTEC арт. 614503",
     "brand": "SINTEC",
@@ -31630,7 +31720,7 @@
     "name": "Датчик зад.хода ВАЗ  STARTVOLT арт. VSRS0108",
     "brand": "STARTVOLT",
     "vendorCode": "VSRS0108",
-    "category": "Электроника",
+    "category": "Электрика",
     "picture": "https://pubimg.nodacdn.net/images/10b0eb4fb3fffc9904e4670c6ce0d7f386d4530005.jpeg",
     "url": "https://expert-autoservice.ru/parts/STARTVOLT/VSRS0108?d=11643769"
   },
@@ -31693,7 +31783,7 @@
     "name": "Разъем датчика массового расхода воздуха (ДМРВ) с проводами  SURAI арт. SR 00809",
     "brand": "SURAI",
     "vendorCode": "SR00809",
-    "category": "Электрика",
+    "category": "Электроника",
     "picture": "https://pubimg.nodacdn.net/images/14a6a4279a2cea7b2944e0865deebdc5b4823a0005.jpg",
     "url": "https://expert-autoservice.ru/parts/SURAI/SR00809?d=11643769"
   },
@@ -32191,6 +32281,15 @@
     "category": "Тормозная система",
     "picture": "https://pubimg.nodacdn.net/images/000fe8937fcaf2742b65a1242d9e2f4b6242b90005.png",
     "url": "https://expert-autoservice.ru/parts/Sangsin%20brake/SP1383?d=11643769"
+  },
+  {
+    "id": "0b28889dec8a10ff1198",
+    "name": "Колодки тормозные задние vw polo, golf ii, iii, passat 1.6-2.8 skoda octavia 1.6 2004-2013; skoda Sangsin brake арт. SP1391",
+    "brand": "Sangsin brake",
+    "vendorCode": "SP1391",
+    "category": "Тормозная система",
+    "picture": "https://pubimg.nodacdn.net/images/05f5a7114a0ed531ca2b86f8381aa63e5a5be0005.jpeg",
+    "url": "https://expert-autoservice.ru/parts/Sangsin%20brake/SP1391?d=11643769"
   },
   {
     "id": "c2fcc2b8660f17f011df",
@@ -33520,7 +33619,7 @@
     "name": "Провода высоковольтные lada granta/largus 8v двс11182 90л.с. тонкий наконечник м12 Slon арт. 8450108506SL",
     "brand": "Slon",
     "vendorCode": "8450108506SL",
-    "category": "Рулевое управление",
+    "category": "Электрика",
     "picture": "https://pubimg.nodacdn.net/images/105a44be7ff042677f7c577654cd4ce7948bb80005.jpeg",
     "url": "https://expert-autoservice.ru/parts/Slon/8450108506SL?d=11643769"
   },
@@ -33925,7 +34024,7 @@
     "name": "Датчик ABS | перед прав/лев | Dacia Duster Renault Fluence Megane Scenic SpeedMate арт. SMSEN853",
     "brand": "SpeedMate",
     "vendorCode": "SMSEN853",
-    "category": "Электроника",
+    "category": "Электрика",
     "picture": "",
     "url": "https://expert-autoservice.ru/parts/SpeedMate/SMSEN853?d=11643769"
   },
@@ -34078,7 +34177,7 @@
     "name": "Моторчик (привод) электрический дверной, 2 проводной StarLine арт. 1011482",
     "brand": "StarLine",
     "vendorCode": "1011482",
-    "category": "Электроника",
+    "category": "Электрика",
     "picture": "https://pubimg.nodacdn.net/images/06ed71c7d216154b0de6efda882b5ed07ac6e20005.jpeg",
     "url": "https://expert-autoservice.ru/parts/StarLine/1011482?d=11643769"
   },
@@ -34861,7 +34960,7 @@
     "name": "Хомут глушителя M8x45/скоба 1.5мм  TRANSMASTER UNIVERSAL арт. C845E",
     "brand": "TRANSMASTER UNIVERSAL",
     "vendorCode": "C845E",
-    "category": "Система выпуска",
+    "category": "Сантехнические хомуты",
     "picture": "https://pubimg.nodacdn.net/images/097204e855316c766f70faa6e56e7e323d0e500005.png",
     "url": "https://expert-autoservice.ru/parts/TRANSMASTER%20UNIVERSAL/C845E?d=11643769"
   },
@@ -34879,7 +34978,7 @@
     "name": "Хомут глушителя в сборе D50 для а/м ВАЗ LADA KALINA (заводское кольцо)  TRANSMASTER UNIVERSAL арт. M117C",
     "brand": "TRANSMASTER UNIVERSAL",
     "vendorCode": "M117C",
-    "category": "Система выпуска",
+    "category": "Сантехнические хомуты",
     "picture": "https://pubimg.nodacdn.net/images/0862cbafc29d984ab5ef6da7da7b383c54de140005.jpeg",
     "url": "https://expert-autoservice.ru/parts/TRANSMASTER%20UNIVERSAL/M117C?d=11643769"
   },
@@ -34888,7 +34987,7 @@
     "name": "Хомут глушителя ВАЗ D-40  TRANSMASTER UNIVERSAL арт. M.178C",
     "brand": "TRANSMASTER UNIVERSAL",
     "vendorCode": "M178C",
-    "category": "Система выпуска",
+    "category": "Сантехнические хомуты",
     "picture": "https://pubimg.nodacdn.net/images/129031e6b40a04ccff1cd9acf8b3793bf4ded20005.jpeg",
     "url": "https://expert-autoservice.ru/parts/TRANSMASTER%20UNIVERSAL/M178C?d=11643769"
   },
@@ -34897,7 +34996,7 @@
     "name": "Хомут глушителя D-40/L-80mm  TRANSMASTER UNIVERSAL арт. R409",
     "brand": "TRANSMASTER UNIVERSAL",
     "vendorCode": "R409",
-    "category": "Система выпуска",
+    "category": "Сантехнические хомуты",
     "picture": "https://pubimg.nodacdn.net/images/1150b82c61af9cc9010535b6c9a3b4bf38fd510005.jpeg",
     "url": "https://expert-autoservice.ru/parts/TRANSMASTER%20UNIVERSAL/R409?d=11643769"
   },
@@ -34906,7 +35005,7 @@
     "name": "Хомут глушителя D-56/L-95mm  TRANSMASTER UNIVERSAL арт. R456",
     "brand": "TRANSMASTER UNIVERSAL",
     "vendorCode": "R456",
-    "category": "Система выпуска",
+    "category": "Сантехнические хомуты",
     "picture": "https://pubimg.nodacdn.net/images/103d5a4b6f48e5e18bc32616d835d1b30680e20005.jpeg",
     "url": "https://expert-autoservice.ru/parts/TRANSMASTER%20UNIVERSAL/R456?d=11643769"
   },
@@ -36031,7 +36130,7 @@
     "name": "бендикс стартера japan Hyundai Accent 95>/Elantra 90>/Coupe <95/00>/Sonata <98/Getz 02>/i30 06>  Tesla Technics арт. TT61170",
     "brand": "Tesla Technics",
     "vendorCode": "TT61170",
-    "category": "Двигатель",
+    "category": "Электрика",
     "picture": "https://pubimg.nodacdn.net/images/08d039f2322ceea374bd95a32d7187f8a2e8770005.jpeg",
     "url": "https://expert-autoservice.ru/parts/Tesla%20Technics/TT61170?d=11643769"
   },
@@ -36346,7 +36445,7 @@
     "name": "Кронштейн крепления глушителя фигурный Trialli арт. EMB 0104",
     "brand": "Trialli",
     "vendorCode": "EMB0104",
-    "category": "Система выпуска",
+    "category": "Кузов",
     "picture": "https://pubimg.nodacdn.net/images/09ba78eac5bd0ec413b619d575e37b08c858700005.jpeg",
     "url": "https://expert-autoservice.ru/parts/Trialli/EMB0104?d=11643769"
   },
@@ -36805,7 +36904,7 @@
     "name": "Датчик РХХ холостого хода lada largus renault logan 1.6 / 8 клап. VDO арт. 7701206370",
     "brand": "VDO",
     "vendorCode": "7701206370",
-    "category": "Электроника",
+    "category": "Электрика",
     "picture": "",
     "url": "https://expert-autoservice.ru/parts/VDO/7701206370?d=11643769"
   },
@@ -37462,7 +37561,7 @@
     "name": "Лампа галогенная Н3 12V 55W PK22s Essential  Valeo арт. 032 005",
     "brand": "Valeo",
     "vendorCode": "032005",
-    "category": "Автосвет",
+    "category": "Лампы для автомобилей",
     "picture": "https://pubimg.nodacdn.net/images/00a3a444fe78d24df319b6666f2bd9b97a5fb50005.jpeg",
     "url": "https://expert-autoservice.ru/parts/Valeo/032005?d=11643769"
   },
@@ -37507,7 +37606,7 @@
     "name": "Датчик давления масла ВАЗ (плоский) Vernet арт. OS3513",
     "brand": "Vernet",
     "vendorCode": "OS3513",
-    "category": "Электроника",
+    "category": "Электрика",
     "picture": "https://pubimg.nodacdn.net/images/01ffe6c6d55acbb631ddde14706252c9d21e400005.jpeg",
     "url": "https://expert-autoservice.ru/parts/Vernet/OS3513?d=11643769"
   },
@@ -37516,7 +37615,7 @@
     "name": "Датчик давления масла LOGANSANDEROLargus  Vernet арт. OS3633",
     "brand": "Vernet",
     "vendorCode": "OS3633",
-    "category": "Электроника",
+    "category": "Электрика",
     "picture": "https://pubimg.nodacdn.net/images/01d85b0fc409dfa96585669de4c1987ab307810005.jpeg",
     "url": "https://expert-autoservice.ru/parts/Vernet/OS3633?d=11643769"
   },
@@ -37606,7 +37705,7 @@
     "name": "Датчик температуры  Vernet арт. WS2605",
     "brand": "Vernet",
     "vendorCode": "WS2605",
-    "category": "Электроника",
+    "category": "Электрика",
     "picture": "https://pubimg.nodacdn.net/images/0116fa346f5d660843e9b4791c77caa9099afa0005.jpeg",
     "url": "https://expert-autoservice.ru/parts/Vernet/WS2605?d=11643769"
   },
@@ -37705,7 +37804,7 @@
     "name": "Адгезионная синтетическая смазка ннs2000 500мл WR арт. 5997552640",
     "brand": "WR",
     "vendorCode": "5997552640",
-    "category": "Смазки",
+    "category": "Автохимия и автокосметика",
     "picture": "",
     "url": "https://expert-autoservice.ru/parts/WR/5997552640?d=11643769"
   },
@@ -37753,6 +37852,15 @@
     "category": "Тормозная система",
     "picture": "https://pubimg.nodacdn.net/images/11ef17e58f2121e8a0eac37d94157dd0f9a6a00005.jpeg",
     "url": "https://expert-autoservice.ru/parts/Ween/1511332?d=11643769"
+  },
+  {
+    "id": "467e10ac5cfc1110af23",
+    "name": "Колодки барабанные зад Duster 4x4 незаказывать Ween арт. 1520005",
+    "brand": "Ween",
+    "vendorCode": "1520005",
+    "category": "Тормозная система",
+    "picture": "https://pubimg.nodacdn.net/images/10161213de8fa345ee74a5c9fb4ba70edda8ca0005.jpeg",
+    "url": "https://expert-autoservice.ru/parts/Ween/1520005?d=11643769"
   },
   {
     "id": "47f008a7671ccb7238d3",
@@ -38344,7 +38452,7 @@
     "name": "Бендикс стартера  Zen арт. 1757",
     "brand": "Zen",
     "vendorCode": "1757",
-    "category": "Двигатель",
+    "category": "Электрика",
     "picture": "",
     "url": "https://expert-autoservice.ru/parts/Zen/1757?d=11643769"
   },
@@ -38884,7 +38992,7 @@
     "name": "Датчик коленвала ВАЗ  Астро арт. 27.3847",
     "brand": "Астро",
     "vendorCode": "273847",
-    "category": "Электроника",
+    "category": "Двигатель",
     "picture": "https://pubimg.nodacdn.net/images/08dabb78fa4d58b9b875fe8783020a0a6f871f0005.jpeg",
     "url": "https://expert-autoservice.ru/parts/%D0%90%D1%81%D1%82%D1%80%D0%BE/273847?d=11643769"
   },
@@ -38941,6 +39049,15 @@
     "category": "Запчасти",
     "picture": "https://pubimg.nodacdn.net/images/13024d25d8d4d6f5f65fc93da546ba0cd007fb0005.jpeg",
     "url": "https://expert-autoservice.ru/parts/%D0%91%D0%9C%D0%A0%D0%A2%28%D0%91%D0%B0%D0%BB%D0%B0%D0%BA%D0%BE%D0%B2%D0%BE%29/21082904046?d=11643769"
+  },
+  {
+    "id": "0ca57356bbe027a41867",
+    "name": "Патрубок термостата ВАЗ 1118 и водяного насоса БРТ 1118-1303093Р БРТ арт. 11181303093Р",
+    "brand": "БРТ",
+    "vendorCode": "11181303093Р",
+    "category": "Запчасти",
+    "picture": "https://pubimg.nodacdn.net/images/059a992e1f6eacf8bc3b5a073a96bc8c6cad560005.jpeg",
+    "url": "https://expert-autoservice.ru/parts/%D0%91%D0%A0%D0%A2/11181303093%D0%A0?d=11643769"
   },
   {
     "id": "44b408ee2dbac6a33299",
@@ -41044,7 +41161,7 @@
     "name": "Кнопка брелка сигнализации  Общий арт. 2000000113456",
     "brand": "Общий",
     "vendorCode": "2000000113456",
-    "category": "Аксессуары и оборудование",
+    "category": "Электроника",
     "picture": "",
     "url": "https://expert-autoservice.ru/parts/%D0%9E%D0%B1%D1%89%D0%B8%D0%B9/2000000113456?d=11643769"
   },
@@ -41287,7 +41404,7 @@
     "name": "Датчик детонации ВАЗ  РемКом арт. RK02001",
     "brand": "РемКом",
     "vendorCode": "RK02001",
-    "category": "Электроника",
+    "category": "Электрика",
     "picture": "https://pubimg.nodacdn.net/images/096102446e6bc556e218b1d4689cd2d7bcede20005.jpeg",
     "url": "https://expert-autoservice.ru/parts/%D0%A0%D0%B5%D0%BC%D0%9A%D0%BE%D0%BC/RK02001?d=11643769"
   },
@@ -41557,7 +41674,7 @@
     "name": "Датчик скорости LADA Kalina1117-1119 СОАТЭ арт. 011183843010",
     "brand": "СОАТЭ",
     "vendorCode": "011183843010",
-    "category": "Электроника",
+    "category": "Электрика",
     "picture": "",
     "url": "https://expert-autoservice.ru/parts/%D0%A1%D0%9E%D0%90%D0%A2%D0%AD/011183843010?d=11643769"
   },
@@ -41575,7 +41692,7 @@
     "name": "Датчик ДПДЗ ВАЗ  СОАТЭ арт. 02112.1148200",
     "brand": "СОАТЭ",
     "vendorCode": "021121148200",
-    "category": "Электроника",
+    "category": "Электрика",
     "picture": "https://pubimg.nodacdn.net/images/065eb56839dd90242ce5f12494e9f32b39b59e0005.jpeg",
     "url": "https://expert-autoservice.ru/parts/%D0%A1%D0%9E%D0%90%D0%A2%D0%AD/021121148200?d=11643769"
   },
@@ -41584,7 +41701,7 @@
     "name": "Датчик скорости ВАЗ 2170 Приора  СОАТЭ арт. 021703843010",
     "brand": "СОАТЭ",
     "vendorCode": "021703843010",
-    "category": "Электрика",
+    "category": "Электроника",
     "picture": "https://pubimg.nodacdn.net/images/05d6fea153ea45153b2c88e64d183425d524e30005.jpeg",
     "url": "https://expert-autoservice.ru/parts/%D0%A1%D0%9E%D0%90%D0%A2%D0%AD/021703843010?d=11643769"
   },
@@ -41731,15 +41848,6 @@
     "category": "Электрика",
     "picture": "https://pubimg.nodacdn.net/images/05aa7ab3d3b483ba8d7aa60dcd1244308f96c20005.jpeg",
     "url": "https://expert-autoservice.ru/parts/%D0%A1%D0%BE%D0%B3%D0%B4%D0%B8%D0%B0%D0%BD%D0%B0/2313787?d=11643769"
-  },
-  {
-    "id": "4cda74ea44aa8570927a",
-    "name": "Термостат ВАЗ 2190 85с  СтАТО арт. 21901306010",
-    "brand": "СтАТО",
-    "vendorCode": "21901306010",
-    "category": "Запчасти",
-    "picture": "https://pubimg.nodacdn.net/images/08afac6dfb3868bf3ff74808e6d2f0048e42150005.jpeg",
-    "url": "https://expert-autoservice.ru/parts/%D0%A1%D1%82%D0%90%D0%A2%D0%9E/21901306010?d=11643769"
   },
   {
     "id": "b4651fc16ca2483973b4",
@@ -41890,7 +41998,7 @@
     "name": "Датчик заднего хода для а/м ВАЗ \"Гранта\", \"Калина\", \"Приора\" с троссовым приводом КПП ВЗХ-9  ЭМИ арт. 1332376801",
     "brand": "ЭМИ",
     "vendorCode": "1332376801",
-    "category": "Электроника",
+    "category": "Электрика",
     "picture": "https://pubimg.nodacdn.net/images/09df83cd84844a288e9445deb20958d2a6f93b0005.jpeg",
     "url": "https://expert-autoservice.ru/parts/%D0%AD%D0%9C%D0%98/1332376801?d=11643769"
   },

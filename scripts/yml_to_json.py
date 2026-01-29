@@ -1,9 +1,8 @@
 import requests
-from requests.adapters import HTTPAdapter
-from urllib3.util.retry import Retry
 import xml.etree.ElementTree as ET
 import json
 import re
+import time
 
 URL = "https://expert-autoservice.ru/get_price?p=3af702b45d2f435c864ea95a2cbeeb04&FranchiseeId=4958296"
 JSON_FILE = "products.json"
@@ -11,45 +10,49 @@ JSON_FILE = "products.json"
 
 def fetch_xml(url: str) -> str:
     headers = {
-        "User-Agent": (
-            "Mozilla/5.0 (X11; Linux x86_64) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) "
-            "Chrome/120.0 Safari/537.36"
-        ),
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) Chrome/120.0",
         "Accept": "*/*",
         "Connection": "keep-alive",
     }
 
-    session = requests.Session()
+    print("⏳ Начинаем загрузку YML…")
 
-    retries = Retry(
-        total=5,
-        connect=5,
-        read=5,
-        backoff_factor=5,
-        status_forcelist=[502, 503, 504],
-        allowed_methods=["GET"],
-        raise_on_status=False,
-    )
+    start_time = time.time()
+    chunks = []
+    total = 0
 
-    adapter = HTTPAdapter(max_retries=retries)
-    session.mount("https://", adapter)
-    session.mount("http://", adapter)
-
-    resp = session.get(
+    with requests.get(
         url,
         headers=headers,
-        timeout=(20, 180),  # 20s SSL, 180s чтение тела
-    )
+        timeout=(20, 300),
+        stream=True
+    ) as resp:
+        resp.raise_for_status()
 
-    resp.raise_for_status()
+        for chunk in resp.iter_content(chunk_size=1024 * 1024):
+            if not chunk:
+                continue
 
-    xml_text = resp.text.lstrip("\ufeff")  # убираем BOM
-    return xml_text
+            chunks.append(chunk)
+            total += len(chunk)
+
+            mb = total / 1024 / 1024
+            elapsed = time.time() - start_time
+            speed = mb / elapsed if elapsed > 0 else 0
+
+            print(f"⬇ Загружено: {mb:.1f} MB | {speed:.2f} MB/s")
+
+            # защита от вечного зависания
+            if elapsed > 240:
+                raise TimeoutError("YML грузится слишком долго (>4 минут)")
+
+    xml_text = b"".join(chunks).decode("utf-8", errors="replace")
+    print(f"✔ Загрузка завершена: {mb:.1f} MB")
+
+    return xml_text.lstrip("\ufeff")
 
 
 def clean_xml(xml_text: str) -> str:
-    # заменяем "голые" амперсанды
     return re.sub(
         r'&(?!amp;|lt;|gt;|quot;|apos;)',
         '&amp;',
@@ -61,12 +64,11 @@ def parse_xml(xml_text: str) -> list:
     try:
         root = ET.fromstring(xml_text)
     except ET.ParseError as e:
-        print("ParseError:", e)
-        print("Пробуем очистить XML…")
+        print("⚠ ParseError:", e)
+        print("⏳ Пробуем очистить XML…")
         xml_text = clean_xml(xml_text)
         root = ET.fromstring(xml_text)
 
-    # категории id → название
     categories = {}
     for cat in root.findall(".//category"):
         cid = cat.get("id")
@@ -102,9 +104,10 @@ def parse_xml(xml_text: str) -> list:
             products.append(product)
 
         except Exception as e:
-            print(f"Ошибка в оффере {offer.get('id')}: {e}")
+            print(f"⚠ Ошибка в оффере {offer.get('id')}: {e}")
             continue
 
+    print(f"✔ Распарсено товаров: {len(products)}")
     return products
 
 
@@ -112,18 +115,12 @@ def save_json(products: list, path: str):
     with open(path, "w", encoding="utf-8") as f:
         json.dump(products, f, ensure_ascii=False, indent=2)
 
-    print(f"✔ Сохранено товаров: {len(products)} → {path}")
+    print(f"✔ JSON сохранён → {path}")
 
 
 def main():
-    print("⏳ Загружаем YML…")
     xml_text = fetch_xml(URL)
-    print(f"✔ YML загружен ({len(xml_text) / 1024 / 1024:.2f} MB)")
-
-    print("⏳ Парсим XML…")
     products = parse_xml(xml_text)
-
-    print("⏳ Сохраняем JSON…")
     save_json(products, JSON_FILE)
 
 
